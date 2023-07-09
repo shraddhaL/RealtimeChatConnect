@@ -1,0 +1,12 @@
+[
+    {
+      "model": "users.customuser",
+      "fields": {
+        "username": "admin",
+        "password": "admin",
+        "email": "admin@chatconnect.com",
+        "is_admin": true
+      }
+    }
+  ]
+  

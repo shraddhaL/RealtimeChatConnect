@@ -1,0 +1,7 @@
+.vscode
+groupchat/migrations/
+users/migrations/
+__pycache__/
+ChatConnect/__pycache__/
+groupchat/__pycache__/
+users/__pycache__/
