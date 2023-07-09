@@ -55,6 +55,8 @@ Steps to setup this project in your local machine:
    python manage.py runserver
    ```
 
+Swagger Endpoint: http://localhost:8000/doc/
+
 Admin User:
 
 username: admin
